@@ -33,14 +33,11 @@ The workflow included:
 - One of the more unexpected findings was the frequent use of the word **"baby,"** highlighting the protective and familial language many commenters used when referring to the horse.
 
 
-## Repository Structure
+## Project Structure
 
-```
-animal-welfare-nlp/
-├── data/        # Documentation only (raw data not included)
-├── output/      # Figures generated from the analysis
-└── scripts/     # R analysis code
-```
+- **scripts/** – R scripts used for data cleaning, natural language processing, and data visualization.
+- **output/** – Figures generated from the analysis.
+- **data/** – Documentation only. The raw dataset is not included in this repository.
 
 
 ## Visualizations
