@@ -60,12 +60,11 @@ The workflow included:
 The original Instagram comments are not included in this repository because they may be subject to platform terms of service. The analysis script is provided for transparency and can be adapted to a similarly structured dataset.
 
 
-## Software
+## R Packages Used
 
-- R
 - tidyverse
 - tidytext
+- readxl
 - ggplot2
 - wordcloud
-- readxl
 - textdata
