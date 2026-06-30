@@ -1,6 +1,7 @@
 library(tidyverse)
 library(tidytext)
 library(readxl)
+library(ggplot2)
 library(wordcloud)
 library(textdata)
 
